@@ -21,6 +21,38 @@ O projeto simula uma operação de loja especializada em produtos de **Pokémon*
 
 A ideia nasceu a partir de uma situação real observada: um pequeno e-commerce de TCG enfrentou dificuldades para prever demanda e organizar estoque, o que prejudicou a continuidade da operação.
 
+## Dashboard
+
+Acesse a aplicação:
+
+https://cardflow-tcg-analytics.streamlit.app/
+
+---
+
+## Preview
+
+### Visão Geral
+
+![Dashboard Principal](assets/dashboard_1.png)
+
+Dashboard executivo com KPIs, filtros e alertas preditivos.
+
+---
+
+### Recomendações de Reposição
+
+![Reposição](assets/dashboard_2.png)
+
+Produtos classificados por prioridade com sugestões operacionais de reposição.
+
+---
+
+### Análises Operacionais
+
+![Análises](assets/dashboard_3.png)
+
+Visualizações para acompanhamento de estoque, lucratividade e comportamento comercial.
+
 ---
 
 ## Problema de Negócio
