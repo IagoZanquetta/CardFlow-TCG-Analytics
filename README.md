@@ -389,21 +389,24 @@ Por esse motivo, o projeto utiliza uma camada complementar de classificação pa
 
 ## Próximos Passos
 
-Possíveis melhorias futuras:
+Possíveis evoluções futuras:
 
-* integração com APIs reais de marketplaces e catálogos TCG;
-* previsão temporal por produto;
-* monitoramento contínuo de estoque;
-* alertas automáticos de reposição;
-* otimização de hiperparâmetros com maior profundidade;
-* inclusão de dados externos, como calendário de lançamentos e tendências competitivas;
-* deploy do dashboard em ambiente público.
+- integração com APIs reais de marketplaces e catálogos TCG;
+- previsão temporal por produto;
+- inclusão de modelos específicos para séries temporais;
+- monitoramento contínuo de estoque;
+- alertas automáticos de reposição;
+- otimização mais profunda de hiperparâmetros;
+- inclusão de variáveis externas, como calendário de lançamentos e tendências competitivas;
+- integração com banco de dados;
+- containerização com Docker;
+- pipeline automatizado para atualização de modelos.
 
 ---
 
 ## Status do Projeto
 
-Projeto em versão MVP funcional.
+Projeto em versão MVP funcional e publicado.
 
 Inclui:
 
