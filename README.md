@@ -1,5 +1,11 @@
 # CardFlow — TCG Analytics
 
+## Dashboard
+
+Acesse a aplicação:
+
+https://cardflow-tcg-analytics.streamlit.app/
+
 ## Visão Geral
 
 O **CardFlow** é um projeto de portfólio voltado à análise de vendas, gestão de estoque e detecção de risco operacional em pequenos e-commerces de **Trading Card Games (TCG)**.
