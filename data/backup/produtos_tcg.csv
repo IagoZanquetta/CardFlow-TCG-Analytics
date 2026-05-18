@@ -1,0 +1,251 @@
+produto_id,nome_produto,categoria,jogo,set_colecao,raridade,preco_unitario,custo_unitario,data_lancamento,popularidade_base,meta_relevancia,fornecedor
+1,Carta 001 - Temporal Forces,Carta Avulsa,Pokémon,Temporal Forces,Ultra Rara,91.54,48.83,2025-07-13,43,0,Distribuidor B
+2,Carta 002 - Duskmourn,Carta Avulsa,Magic,Duskmourn,Comum,49.12,29.61,2025-11-11,61,0,Distribuidor D
+3,Carta 003 - Obsidian Flames,Carta Avulsa,Pokémon,Obsidian Flames,Secret Rare,72.68,32.95,2025-08-26,79,0,Distribuidor B
+4,Carta 004 - Paradox Rift,Carta Avulsa,Pokémon,Paradox Rift,Rara,93.45,46.31,2026-03-25,23,0,Distribuidor B
+5,Deck The Lost Caverns of Ixalan #005,Deck,Magic,The Lost Caverns of Ixalan,Ultra Rara,142.97,67.5,2025-10-22,81,0,Distribuidor A
+6,Booster Temporal Forces #006,Booster,Pokémon,Temporal Forces,Secret Rare,26.9,12.21,2026-01-02,28,1,Distribuidor D
+7,Box Obsidian Flames #007,Box,Pokémon,Obsidian Flames,Rara,266.03,177.12,2026-04-15,91,0,Distribuidor D
+8,Box Temporal Forces #008,Box,Pokémon,Temporal Forces,Rara,208.7,133.61,2025-10-23,33,0,Distribuidor C
+9,Carta 009 - Paradox Rift,Carta Avulsa,Pokémon,Paradox Rift,Comum,97.28,49.84,2026-04-12,34,1,Distribuidor A
+10,Booster Obsidian Flames #010,Booster,Pokémon,Obsidian Flames,Ultra Rara,27.39,13.82,2026-01-10,49,1,Distribuidor B
+11,Carta 011 - Scarlet & Violet,Carta Avulsa,Pokémon,Scarlet & Violet,Comum,38.05,17.19,2025-07-04,91,0,Distribuidor A
+12,Carta 012 - Duskmourn,Carta Avulsa,Magic,Duskmourn,Secret Rare,51.86,35.94,2025-07-27,71,0,Distribuidor B
+13,Carta 013 - The Lost Caverns of Ixalan,Carta Avulsa,Magic,The Lost Caverns of Ixalan,Comum,93.39,63.23,2026-03-26,38,0,Distribuidor D
+14,Carta 014 - Paradox Rift,Carta Avulsa,Pokémon,Paradox Rift,Incomum,40.11,22.05,2026-01-14,35,1,Distribuidor C
+15,Deck Temporal Forces #015,Deck,Pokémon,Temporal Forces,Incomum,91.38,43.32,2026-04-09,52,0,Distribuidor B
+16,Carta 016 - Legacy of Destruction,Carta Avulsa,Yu-Gi-Oh,Legacy of Destruction,Comum,139.08,91.0,2025-07-18,79,0,Distribuidor B
+17,Deck Rage of the Abyss #017,Deck,Yu-Gi-Oh,Rage of the Abyss,Comum,137.07,75.54,2026-03-04,52,0,Distribuidor A
+18,Booster Paradox Rift #018,Booster,Pokémon,Paradox Rift,Incomum,44.34,25.34,2025-11-30,54,0,Distribuidor D
+19,Booster Bloomburrow #019,Booster,Magic,Bloomburrow,Comum,38.6,22.61,2026-04-26,78,0,Distribuidor B
+20,Booster The Lost Caverns of Ixalan #020,Booster,Magic,The Lost Caverns of Ixalan,Secret Rare,28.75,19.15,2026-05-14,80,0,Distribuidor C
+21,Deck Bloomburrow #021,Deck,Magic,Bloomburrow,Incomum,145.78,77.65,2026-02-08,65,1,Distribuidor D
+22,Carta 022 - Rage of the Abyss,Carta Avulsa,Yu-Gi-Oh,Rage of the Abyss,Ultra Rara,50.95,31.8,2025-08-03,65,0,Distribuidor C
+23,Carta 023 - Phantom Nightmare,Carta Avulsa,Yu-Gi-Oh,Phantom Nightmare,Comum,51.77,30.45,2025-05-28,61,1,Distribuidor B
+24,Carta 024 - Rage of the Abyss,Carta Avulsa,Yu-Gi-Oh,Rage of the Abyss,Comum,96.04,44.44,2025-06-30,34,0,Distribuidor D
+25,Booster Murders at Karlov Manor #025,Booster,Magic,Murders at Karlov Manor,Incomum,34.77,22.8,2026-02-06,73,0,Distribuidor A
+26,Carta 026 - The Infinite Forbidden,Carta Avulsa,Yu-Gi-Oh,The Infinite Forbidden,Rara,17.38,10.59,2026-01-14,71,0,Distribuidor B
+27,Carta 027 - Scarlet & Violet,Carta Avulsa,Pokémon,Scarlet & Violet,Incomum,112.89,62.89,2026-03-21,31,0,Distribuidor B
+28,Carta 028 - Paldea Evolved,Carta Avulsa,Pokémon,Paldea Evolved,Comum,31.52,19.36,2025-09-13,88,0,Distribuidor C
+29,Box Obsidian Flames #029,Box,Pokémon,Obsidian Flames,Comum,189.77,118.78,2025-06-11,95,0,Distribuidor C
+30,Carta 030 - Temporal Forces,Carta Avulsa,Pokémon,Temporal Forces,Rara,97.09,55.9,2026-05-14,20,0,Distribuidor D
+31,Carta 031 - Paldea Evolved,Carta Avulsa,Pokémon,Paldea Evolved,Rara,141.33,79.79,2025-08-23,70,1,Distribuidor C
+32,Carta 032 - Phantom Nightmare,Carta Avulsa,Yu-Gi-Oh,Phantom Nightmare,Comum,36.12,19.29,2026-02-17,27,0,Distribuidor B
+33,Booster Age of Overlord #033,Booster,Yu-Gi-Oh,Age of Overlord,Rara,43.42,30.04,2025-11-07,55,0,Distribuidor C
+34,Carta 034 - The Infinite Forbidden,Carta Avulsa,Yu-Gi-Oh,The Infinite Forbidden,Ultra Rara,54.42,34.7,2026-03-17,49,1,Distribuidor D
+35,Deck Rage of the Abyss #035,Deck,Yu-Gi-Oh,Rage of the Abyss,Incomum,88.74,61.01,2025-12-25,71,0,Distribuidor A
+36,Carta 036 - Paradox Rift,Carta Avulsa,Pokémon,Paradox Rift,Rara,114.09,65.45,2026-01-16,58,1,Distribuidor A
+37,Carta 037 - The Lost Caverns of Ixalan,Carta Avulsa,Magic,The Lost Caverns of Ixalan,Comum,25.73,12.12,2025-08-08,32,0,Distribuidor B
+38,Carta 038 - Temporal Forces,Carta Avulsa,Pokémon,Temporal Forces,Secret Rare,59.27,41.28,2025-09-08,23,0,Distribuidor C
+39,Booster Outlaws of Thunder Junction #039,Booster,Magic,Outlaws of Thunder Junction,Incomum,22.78,12.92,2025-07-05,77,1,Distribuidor C
+40,Booster Bloomburrow #040,Booster,Magic,Bloomburrow,Comum,31.94,17.86,2025-12-09,77,0,Distribuidor A
+41,Carta 041 - Temporal Forces,Carta Avulsa,Pokémon,Temporal Forces,Secret Rare,138.27,67.97,2026-05-17,68,0,Distribuidor A
+42,Deck Murders at Karlov Manor #042,Deck,Magic,Murders at Karlov Manor,Comum,101.01,61.11,2025-12-05,27,0,Distribuidor B
+43,Booster Paradox Rift #043,Booster,Pokémon,Paradox Rift,Comum,44.66,23.55,2026-04-02,96,0,Distribuidor C
+44,Carta 044 - Phantom Nightmare,Carta Avulsa,Yu-Gi-Oh,Phantom Nightmare,Rara,138.28,67.92,2025-12-23,52,1,Distribuidor D
+45,Booster Legacy of Destruction #045,Booster,Yu-Gi-Oh,Legacy of Destruction,Incomum,41.05,22.73,2025-07-11,20,0,Distribuidor B
+46,Deck The Lost Caverns of Ixalan #046,Deck,Magic,The Lost Caverns of Ixalan,Secret Rare,136.47,69.85,2026-05-17,97,0,Distribuidor C
+47,Carta 047 - Paradox Rift,Carta Avulsa,Pokémon,Paradox Rift,Rara,94.63,54.89,2025-08-23,22,0,Distribuidor A
+48,Carta 048 - The Lost Caverns of Ixalan,Carta Avulsa,Magic,The Lost Caverns of Ixalan,Ultra Rara,90.54,55.22,2025-11-07,94,0,Distribuidor D
+49,Booster Phantom Nightmare #049,Booster,Yu-Gi-Oh,Phantom Nightmare,Incomum,42.6,27.52,2026-03-28,49,0,Distribuidor A
+50,Booster The Infinite Forbidden #050,Booster,Yu-Gi-Oh,The Infinite Forbidden,Ultra Rara,21.66,11.63,2026-01-27,62,0,Distribuidor A
+51,Carta 051 - Murders at Karlov Manor,Carta Avulsa,Magic,Murders at Karlov Manor,Rara,31.37,19.35,2026-03-28,69,0,Distribuidor C
+52,Carta 052 - Phantom Nightmare,Carta Avulsa,Yu-Gi-Oh,Phantom Nightmare,Comum,17.86,9.66,2026-03-06,97,0,Distribuidor B
+53,Booster Bloomburrow #053,Booster,Magic,Bloomburrow,Incomum,29.43,13.87,2026-01-11,71,0,Distribuidor D
+54,Box Duskmourn #054,Box,Magic,Duskmourn,Incomum,215.46,133.97,2025-09-21,42,0,Distribuidor D
+55,Carta 055 - Paldea Evolved,Carta Avulsa,Pokémon,Paldea Evolved,Incomum,20.21,13.34,2026-05-05,63,0,Distribuidor D
+56,Box Duskmourn #056,Box,Magic,Duskmourn,Incomum,320.84,179.0,2026-05-12,61,0,Distribuidor D
+57,Carta 057 - Duskmourn,Carta Avulsa,Magic,Duskmourn,Incomum,52.9,28.64,2025-07-04,23,1,Distribuidor B
+58,Carta 058 - Scarlet & Violet,Carta Avulsa,Pokémon,Scarlet & Violet,Incomum,64.51,44.66,2026-01-20,23,0,Distribuidor A
+59,Box Murders at Karlov Manor #059,Box,Magic,Murders at Karlov Manor,Rara,381.26,263.83,2025-10-05,87,0,
+60,Booster Scarlet & Violet #060,Booster,Pokémon,Scarlet & Violet,Comum,23.86,11.05,2025-08-30,69,0,Distribuidor C
+61,Carta 061 - Duskmourn,Carta Avulsa,Magic,Duskmourn,Ultra Rara,41.92,23.81,2025-07-17,54,0,Distribuidor A
+62,Carta 062 - The Infinite Forbidden,Carta Avulsa,Yu-Gi-Oh,The Infinite Forbidden,Secret Rare,148.68,93.73,2025-06-24,79,1,Distribuidor C
+63,Carta 063 - Outlaws of Thunder Junction,Carta Avulsa,Magic,Outlaws of Thunder Junction,Comum,123.11,82.4,2025-07-27,37,1,Distribuidor D
+64,Booster Obsidian Flames #064,Booster,Pokémon,Obsidian Flames,Incomum,34.44,20.08,2026-04-09,72,1,Distribuidor C
+65,Booster Obsidian Flames #065,Booster,Pokémon,Obsidian Flames,Incomum,39.85,26.84,2026-02-10,55,1,Distribuidor A
+66,Carta 066 - Scarlet & Violet,Carta Avulsa,Pokémon,Scarlet & Violet,Rara,115.56,55.2,2025-12-12,71,0,Distribuidor D
+67,Box Paradox Rift #067,Box,Pokémon,Paradox Rift,Rara,310.25,166.43,2025-05-23,30,1,Distribuidor B
+68,Deck Paldea Evolved #068,Deck,Pokémon,Paldea Evolved,Comum,61.63,41.17,2025-06-28,95,0,
+69,Box Phantom Nightmare #069,Box,Yu-Gi-Oh,Phantom Nightmare,Incomum,205.02,138.94,2025-06-06,20,0,Distribuidor B
+70,Carta 070 - Scarlet & Violet,Carta Avulsa,Pokémon,Scarlet & Violet,Incomum,37.97,19.04,2025-07-31,76,0,Distribuidor C
+71,Deck Paldea Evolved #071,Deck,Pokémon,Paldea Evolved,Incomum,80.21,45.17,2026-04-23,70,0,Distribuidor C
+72,Deck Temporal Forces #072,Deck,Pokémon,Temporal Forces,Incomum,119.72,59.2,2025-06-10,68,0,Distribuidor D
+73,Carta 073 - Bloomburrow,Carta Avulsa,Magic,Bloomburrow,Incomum,62.61,35.5,2025-08-05,68,0,Distribuidor D
+74,Carta 074 - Duskmourn,Carta Avulsa,Magic,Duskmourn,Rara,81.51,52.27,2026-03-24,23,0,Distribuidor C
+75,Carta 075 - Duskmourn,Carta Avulsa,Magic,Duskmourn,Rara,64.27,39.51,2025-06-29,84,0,Distribuidor D
+76,Booster Temporal Forces #076,Booster,Pokémon,Temporal Forces,Incomum,42.19,27.48,2025-07-20,97,0,Distribuidor C
+77,Booster The Infinite Forbidden #077,Booster,Yu-Gi-Oh,The Infinite Forbidden,Comum,42.41,21.29,2026-04-12,38,0,Distribuidor A
+78,Deck Paldea Evolved #078,Deck,Pokémon,Paldea Evolved,Rara,63.08,41.49,2025-10-08,56,0,Distribuidor A
+79,Carta 079 - Paradox Rift,Carta Avulsa,Pokémon,Paradox Rift,Secret Rare,118.07,67.03,2025-09-23,33,1,Distribuidor A
+80,Carta 080 - Obsidian Flames,Carta Avulsa,Pokémon,Obsidian Flames,Comum,135.58,78.97,2026-04-14,61,0,Distribuidor A
+81,Box Paldea Evolved #081,Box,Pokémon,Paldea Evolved,Comum,243.96,125.07,2025-11-26,72,0,Distribuidor A
+82,Box Paradox Rift #082,Box,Pokémon,Paradox Rift,Incomum,224.25,144.14,2025-07-26,48,0,Distribuidor C
+83,Box Scarlet & Violet #083,Box,Pokémon,Scarlet & Violet,Rara,408.98,233.5,2025-10-03,55,0,Distribuidor D
+84,Booster Obsidian Flames #084,Booster,Pokémon,Obsidian Flames,Incomum,22.66,13.01,2026-04-23,62,0,Distribuidor C
+85,Box Paldea Evolved #085,Box,Pokémon,Paldea Evolved,Rara,266.63,181.13,2026-03-22,80,1,Distribuidor C
+86,Booster Outlaws of Thunder Junction #086,Booster,Magic,Outlaws of Thunder Junction,Ultra Rara,40.16,26.6,2025-08-23,44,1,Distribuidor C
+87,Deck Bloomburrow #087,Deck,Magic,Bloomburrow,Comum,111.12,75.43,2026-05-11,33,0,Distribuidor A
+88,Carta 088 - Paldea Evolved,Carta Avulsa,Pokémon,Paldea Evolved,Ultra Rara,113.03,69.08,2026-01-30,33,0,Distribuidor D
+89,Booster Murders at Karlov Manor #089,Booster,Magic,Murders at Karlov Manor,Incomum,21.63,14.01,2025-12-08,44,1,Distribuidor D
+90,Carta 090 - Paradox Rift,Carta Avulsa,Pokémon,Paradox Rift,,131.16,89.82,2026-04-19,58,0,Distribuidor B
+91,Booster Temporal Forces #091,Booster,Pokémon,Temporal Forces,Rara,29.96,17.39,2026-05-15,84,0,Distribuidor A
+92,Carta 092 - Paldea Evolved,Carta Avulsa,Pokémon,Paldea Evolved,,11.1,6.06,2025-07-29,87,0,
+93,Carta 093 - Paradox Rift,Carta Avulsa,Pokémon,Paradox Rift,Ultra Rara,141.99,99.08,2025-06-03,78,0,Distribuidor C
+94,Booster Obsidian Flames #094,Booster,Pokémon,Obsidian Flames,,25.51,13.71,2025-10-15,24,0,Distribuidor A
+95,Deck Outlaws of Thunder Junction #095,Deck,Magic,Outlaws of Thunder Junction,Comum,73.85,48.3,2026-02-18,32,0,Distribuidor A
+96,Carta 096 - Rage of the Abyss,Carta Avulsa,Yu-Gi-Oh,Rage of the Abyss,Ultra Rara,43.51,28.96,2026-04-23,28,0,Distribuidor A
+97,Carta 097 - Duskmourn,Carta Avulsa,Magic,Duskmourn,Incomum,42.66,21.55,2026-02-26,96,1,Distribuidor B
+98,Deck The Lost Caverns of Ixalan #098,Deck,Magic,The Lost Caverns of Ixalan,Rara,126.05,73.15,2025-05-30,99,0,Distribuidor C
+99,Carta 099 - Age of Overlord,Carta Avulsa,Yu-Gi-Oh,Age of Overlord,Comum,139.86,93.77,2026-04-17,64,1,Distribuidor C
+100,Carta 100 - Obsidian Flames,Carta Avulsa,Pokémon,Obsidian Flames,Secret Rare,5.16,2.57,2026-01-25,32,0,Distribuidor A
+101,Booster Duskmourn #101,Booster,Magic,Duskmourn,Incomum,22.67,15.66,2025-06-17,82,0,Distribuidor B
+102,Carta 102 - Outlaws of Thunder Junction,Carta Avulsa,Magic,Outlaws of Thunder Junction,Ultra Rara,142.36,80.92,2025-10-20,41,0,Distribuidor B
+103,Carta 103 - Rage of the Abyss,Carta Avulsa,Yu-Gi-Oh,Rage of the Abyss,Rara,91.19,49.51,2026-03-21,51,1,Distribuidor C
+104,Deck Paldea Evolved #104,Deck,Pokémon,Paldea Evolved,Incomum,122.43,61.85,2026-02-23,21,1,Distribuidor B
+105,Deck Obsidian Flames #105,Deck,Pokémon,Obsidian Flames,Comum,117.47,64.54,2025-09-03,76,0,Distribuidor B
+106,Carta 106 - Phantom Nightmare,Carta Avulsa,Yu-Gi-Oh,Phantom Nightmare,Comum,99.49,68.85,2026-02-14,65,0,Distribuidor A
+107,Box Obsidian Flames #107,Box,Pokémon,Obsidian Flames,Ultra Rara,187.81,113.47,2025-10-08,65,0,Distribuidor B
+108,Carta 108 - Outlaws of Thunder Junction,Carta Avulsa,Magic,Outlaws of Thunder Junction,Rara,37.7,22.53,2025-10-25,91,0,Distribuidor A
+109,Booster Paldea Evolved #109,Booster,Pokémon,Paldea Evolved,Incomum,38.05,26.18,2025-10-16,60,0,Distribuidor C
+110,Carta 110 - Scarlet & Violet,Carta Avulsa,Pokémon,Scarlet & Violet,Rara,7.66,4.93,2025-09-27,21,0,Distribuidor A
+111,Carta 111 - Temporal Forces,Carta Avulsa,Pokémon,Temporal Forces,Incomum,24.24,12.12,2025-07-05,63,0,Distribuidor C
+112,Deck Age of Overlord #112,Deck,Yu-Gi-Oh,Age of Overlord,Comum,124.27,80.83,2026-05-11,81,0,Distribuidor C
+113,Booster The Infinite Forbidden #113,Booster,Yu-Gi-Oh,The Infinite Forbidden,Ultra Rara,21.02,13.27,2026-04-23,31,0,Distribuidor A
+114,Deck Murders at Karlov Manor #114,Deck,Magic,Murders at Karlov Manor,Incomum,104.84,61.73,2026-04-11,37,0,Distribuidor D
+115,Booster Murders at Karlov Manor #115,Booster,Magic,Murders at Karlov Manor,Comum,21.8,12.33,2026-04-24,50,0,Distribuidor D
+116,Carta 116 - Outlaws of Thunder Junction,Carta Avulsa,Magic,Outlaws of Thunder Junction,Secret Rare,10.82,6.83,2025-08-29,85,0,Distribuidor C
+117,Carta 117 - Obsidian Flames,Carta Avulsa,Pokémon,Obsidian Flames,Incomum,60.66,39.06,2025-06-18,61,0,Distribuidor B
+118,Carta 118 - Temporal Forces,Carta Avulsa,Pokémon,Temporal Forces,Incomum,19.12,11.77,2025-06-07,89,0,Distribuidor A
+119,Booster Obsidian Flames #119,Booster,Pokémon,Obsidian Flames,Incomum,23.27,11.85,2026-02-27,86,0,Distribuidor B
+120,Box Paradox Rift #120,Box,Pokémon,Paradox Rift,Incomum,349.63,171.98,2025-10-26,56,0,Distribuidor A
+121,Carta 121 - Outlaws of Thunder Junction,Carta Avulsa,Magic,Outlaws of Thunder Junction,Ultra Rara,85.93,41.31,2025-08-06,56,1,Distribuidor A
+122,Deck Temporal Forces #122,Deck,Pokémon,Temporal Forces,Incomum,148.8,102.86,2025-10-13,62,0,Distribuidor B
+123,Booster Legacy of Destruction #123,Booster,Yu-Gi-Oh,Legacy of Destruction,Rara,20.75,10.38,2026-01-09,27,1,Distribuidor C
+124,Deck The Lost Caverns of Ixalan #124,Deck,Magic,The Lost Caverns of Ixalan,Comum,61.58,31.47,2025-09-28,45,1,Distribuidor A
+125,Booster Scarlet & Violet #125,Booster,Pokémon,Scarlet & Violet,Rara,36.47,17.38,2026-03-16,85,1,Distribuidor A
+126,Deck Age of Overlord #126,Deck,Yu-Gi-Oh,Age of Overlord,Ultra Rara,96.37,51.25,2026-02-25,38,1,Distribuidor A
+127,Deck Murders at Karlov Manor #127,Deck,Magic,Murders at Karlov Manor,,116.72,70.32,2025-07-06,34,0,Distribuidor A
+128,Booster Scarlet & Violet #128,Booster,Pokémon,Scarlet & Violet,Incomum,34.68,22.19,2025-08-09,28,0,Distribuidor D
+129,Carta 129 - Outlaws of Thunder Junction,Carta Avulsa,Magic,Outlaws of Thunder Junction,Incomum,60.13,36.2,2025-07-20,67,0,Distribuidor B
+130,Carta 130 - Murders at Karlov Manor,Carta Avulsa,Magic,Murders at Karlov Manor,Comum,6.1,4.16,2025-12-28,34,0,Distribuidor B
+131,Booster Temporal Forces #131,Booster,Pokémon,Temporal Forces,Incomum,43.24,20.43,2026-03-02,49,1,Distribuidor D
+132,Carta 132 - Legacy of Destruction,Carta Avulsa,Yu-Gi-Oh,Legacy of Destruction,Ultra Rara,120.97,60.04,2025-08-28,75,1,Distribuidor B
+133,Booster The Lost Caverns of Ixalan #133,Booster,Magic,The Lost Caverns of Ixalan,Secret Rare,40.48,20.36,2026-01-17,29,0,Distribuidor A
+134,Carta 134 - Age of Overlord,Carta Avulsa,Yu-Gi-Oh,Age of Overlord,Ultra Rara,44.85,21.25,2025-09-18,55,0,Distribuidor A
+135,Deck Obsidian Flames #135,Deck,Pokémon,Obsidian Flames,Incomum,80.72,40.49,2026-03-01,30,0,Distribuidor A
+136,Deck Bloomburrow #136,Deck,Magic,Bloomburrow,Comum,124.58,77.63,2026-04-29,43,0,Distribuidor D
+137,Deck Duskmourn #137,Deck,Magic,Duskmourn,Ultra Rara,96.11,52.06,2025-11-03,89,0,Distribuidor A
+138,Booster Duskmourn #138,Booster,Magic,Duskmourn,Comum,26.78,13.6,2025-06-26,77,0,Distribuidor B
+139,Carta 139 - Phantom Nightmare,Carta Avulsa,Yu-Gi-Oh,Phantom Nightmare,Secret Rare,69.72,48.14,2025-07-11,50,1,Distribuidor D
+140,Box Scarlet & Violet #140,Box,Pokémon,Scarlet & Violet,Comum,293.97,141.09,2025-09-12,24,1,Distribuidor D
+141,Carta 141 - Temporal Forces,Carta Avulsa,Pokémon,Temporal Forces,Comum,119.25,58.41,2025-12-18,33,0,Distribuidor B
+142,Carta 142 - Scarlet & Violet,Carta Avulsa,Pokémon,Scarlet & Violet,Secret Rare,85.3,51.19,2025-12-26,74,0,Distribuidor B
+143,Carta 143 - Outlaws of Thunder Junction,Carta Avulsa,Magic,Outlaws of Thunder Junction,Secret Rare,21.87,14.59,2026-05-11,25,0,Distribuidor D
+144,Carta 144 - Rage of the Abyss,Carta Avulsa,Yu-Gi-Oh,Rage of the Abyss,Comum,37.42,22.22,2026-02-12,73,0,Distribuidor B
+145,Carta 145 - Temporal Forces,Carta Avulsa,Pokémon,Temporal Forces,Secret Rare,124.65,71.87,2026-05-06,98,1,Distribuidor D
+146,Carta 146 - Paradox Rift,Carta Avulsa,Pokémon,Paradox Rift,Incomum,68.73,41.57,2025-08-04,79,0,Distribuidor C
+147,Booster Duskmourn #147,Booster,Magic,Duskmourn,Comum,21.44,10.93,2025-11-09,40,0,Distribuidor B
+148,Booster Paradox Rift #148,Booster,Pokémon,Paradox Rift,Rara,25.82,15.85,2026-03-16,57,0,Distribuidor A
+149,Carta 149 - Rage of the Abyss,Carta Avulsa,Yu-Gi-Oh,Rage of the Abyss,Incomum,74.84,38.33,2025-09-14,81,0,Distribuidor B
+150,Booster Paldea Evolved #150,Booster,Pokémon,Paldea Evolved,Comum,28.09,14.04,2025-11-11,64,0,Distribuidor C
+151,Carta 151 - Outlaws of Thunder Junction,Carta Avulsa,Magic,Outlaws of Thunder Junction,Comum,23.44,15.3,2026-04-06,71,1,Distribuidor A
+152,Deck Age of Overlord #152,Deck,Yu-Gi-Oh,Age of Overlord,Ultra Rara,82.92,54.75,2025-09-28,77,0,Distribuidor A
+153,Carta 153 - Phantom Nightmare,Carta Avulsa,Yu-Gi-Oh,Phantom Nightmare,Incomum,37.91,18.06,2026-02-06,63,0,Distribuidor D
+154,Box Scarlet & Violet #154,Box,Pokémon,Scarlet & Violet,Rara,188.54,103.11,2025-12-30,50,0,Distribuidor D
+155,Carta 155 - Murders at Karlov Manor,Carta Avulsa,Magic,Murders at Karlov Manor,Comum,19.27,8.77,2025-06-23,27,1,Distribuidor B
+156,Carta 156 - Murders at Karlov Manor,Carta Avulsa,Magic,Murders at Karlov Manor,Rara,117.32,81.2,2025-06-05,40,0,Distribuidor D
+157,Booster Temporal Forces #157,Booster,Pokémon,Temporal Forces,Rara,36.41,24.83,2025-07-07,74,0,Distribuidor B
+158,Carta 158 - Scarlet & Violet,Carta Avulsa,Pokémon,Scarlet & Violet,Comum,139.61,97.46,2026-04-09,51,0,Distribuidor A
+159,Booster Paldea Evolved #159,Booster,Pokémon,Paldea Evolved,Comum,38.7,17.94,2026-04-26,41,1,Distribuidor D
+160,Carta 160 - Paldea Evolved,Carta Avulsa,Pokémon,Paldea Evolved,Rara,18.32,9.81,2025-11-10,41,0,Distribuidor A
+161,Carta 161 - Murders at Karlov Manor,Carta Avulsa,Magic,Murders at Karlov Manor,Comum,88.69,52.28,2025-08-30,91,0,Distribuidor C
+162,Carta 162 - Legacy of Destruction,Carta Avulsa,Yu-Gi-Oh,Legacy of Destruction,Ultra Rara,34.59,17.19,2026-02-21,60,0,
+163,Box Outlaws of Thunder Junction #163,Box,Magic,Outlaws of Thunder Junction,Comum,258.46,136.06,2025-11-13,75,0,Distribuidor D
+164,Box Paradox Rift #164,Box,Pokémon,Paradox Rift,Ultra Rara,279.03,125.79,2025-11-11,57,0,Distribuidor A
+165,Booster Scarlet & Violet #165,Booster,Pokémon,Scarlet & Violet,Incomum,21.62,12.76,2026-02-25,43,0,Distribuidor C
+166,Carta 166 - Paradox Rift,Carta Avulsa,Pokémon,Paradox Rift,Rara,26.6,13.37,2025-11-26,83,0,Distribuidor D
+167,Carta 167 - Scarlet & Violet,Carta Avulsa,Pokémon,Scarlet & Violet,Comum,36.99,25.27,2025-11-01,64,0,Distribuidor D
+168,Booster Murders at Karlov Manor #168,Booster,Magic,Murders at Karlov Manor,Secret Rare,38.5,22.77,2026-01-31,29,0,Distribuidor A
+169,Booster The Lost Caverns of Ixalan #169,Booster,Magic,The Lost Caverns of Ixalan,Secret Rare,21.4,11.65,2026-03-30,83,0,Distribuidor A
+170,Box The Lost Caverns of Ixalan #170,Box,Magic,The Lost Caverns of Ixalan,Rara,398.25,179.91,2025-07-06,60,0,Distribuidor D
+171,Booster Paradox Rift #171,Booster,Pokémon,Paradox Rift,Secret Rare,21.43,10.96,2025-06-16,33,0,Distribuidor D
+172,Box Duskmourn #172,Box,Magic,Duskmourn,Comum,191.16,112.88,2026-05-11,40,0,Distribuidor B
+173,Box Phantom Nightmare #173,Box,Yu-Gi-Oh,Phantom Nightmare,Incomum,274.43,177.53,2025-07-08,33,1,Distribuidor A
+174,Box Obsidian Flames #174,Box,Pokémon,Obsidian Flames,Comum,407.29,201.91,2025-11-03,52,0,Distribuidor C
+175,Booster Scarlet & Violet #175,Booster,Pokémon,Scarlet & Violet,Comum,38.07,22.3,2026-02-09,89,0,Distribuidor A
+176,Deck Temporal Forces #176,Deck,Pokémon,Temporal Forces,Ultra Rara,118.59,69.53,2026-03-20,59,0,Distribuidor B
+177,Box Legacy of Destruction #177,Box,Yu-Gi-Oh,Legacy of Destruction,Comum,259.25,150.33,2026-02-15,98,1,Distribuidor B
+178,Booster Scarlet & Violet #178,Booster,Pokémon,Scarlet & Violet,Ultra Rara,33.81,17.6,2025-08-29,61,0,Distribuidor C
+179,Carta 179 - Bloomburrow,Carta Avulsa,Magic,Bloomburrow,Comum,68.96,37.18,2026-02-22,60,0,Distribuidor D
+180,Carta 180 - Duskmourn,Carta Avulsa,Magic,Duskmourn,Rara,120.02,62.32,2025-10-10,59,0,Distribuidor A
+181,Box Temporal Forces #181,Box,Pokémon,Temporal Forces,Ultra Rara,412.26,197.64,2026-05-02,30,0,Distribuidor A
+182,Booster Temporal Forces #182,Booster,Pokémon,Temporal Forces,Rara,42.05,19.05,2025-11-03,44,0,Distribuidor A
+183,Carta 183 - Phantom Nightmare,Carta Avulsa,Yu-Gi-Oh,Phantom Nightmare,Rara,32.17,20.19,2025-05-19,63,1,Distribuidor D
+184,Box Paldea Evolved #184,Box,Pokémon,Paldea Evolved,Ultra Rara,207.11,130.43,2026-04-07,54,0,Distribuidor C
+185,Booster Duskmourn #185,Booster,Magic,Duskmourn,Incomum,38.45,19.74,2025-08-19,52,0,Distribuidor B
+186,Booster Paradox Rift #186,Booster,Pokémon,Paradox Rift,Comum,44.79,23.97,2025-07-28,77,0,Distribuidor C
+187,Box Obsidian Flames #187,Box,Pokémon,Obsidian Flames,Incomum,235.86,109.62,2025-10-05,98,0,Distribuidor B
+188,Carta 188 - Murders at Karlov Manor,Carta Avulsa,Magic,Murders at Karlov Manor,Incomum,71.75,49.81,2025-08-10,97,0,Distribuidor D
+189,Deck Duskmourn #189,Deck,Magic,Duskmourn,Comum,122.94,81.12,2026-03-16,64,1,Distribuidor A
+190,Carta 190 - Scarlet & Violet,Carta Avulsa,Pokémon,Scarlet & Violet,Ultra Rara,21.32,10.89,2025-07-14,83,0,Distribuidor A
+191,Carta 191 - Rage of the Abyss,Carta Avulsa,Yu-Gi-Oh,Rage of the Abyss,Comum,112.76,69.57,2025-09-05,60,1,Distribuidor C
+192,Carta 192 - Bloomburrow,Carta Avulsa,Magic,Bloomburrow,Incomum,43.83,22.49,2025-10-29,86,0,Distribuidor A
+193,Box Obsidian Flames #193,Box,Pokémon,Obsidian Flames,Ultra Rara,283.3,158.27,2025-12-22,66,0,Distribuidor B
+194,Booster Temporal Forces #194,Booster,Pokémon,Temporal Forces,Rara,25.94,14.16,2025-11-05,64,1,Distribuidor D
+195,Booster Bloomburrow #195,Booster,Magic,Bloomburrow,Rara,26.36,12.16,2025-05-21,27,0,Distribuidor A
+196,Booster The Lost Caverns of Ixalan #196,Booster,Magic,The Lost Caverns of Ixalan,Comum,27.02,12.19,2026-01-02,65,0,Distribuidor C
+197,Carta 197 - Age of Overlord,Carta Avulsa,Yu-Gi-Oh,Age of Overlord,Ultra Rara,87.95,48.31,2026-05-01,56,0,Distribuidor D
+198,Booster Murders at Karlov Manor #198,Booster,Magic,Murders at Karlov Manor,Ultra Rara,37.56,19.48,2026-04-29,20,0,Distribuidor D
+199,Box Rage of the Abyss #199,Box,Yu-Gi-Oh,Rage of the Abyss,Rara,409.21,184.31,2025-10-15,65,0,Distribuidor A
+200,Carta 200 - Duskmourn,Carta Avulsa,Magic,Duskmourn,Rara,121.05,71.11,2025-12-26,95,0,Distribuidor A
+201,Booster Rage of the Abyss #201,Booster,Yu-Gi-Oh,Rage of the Abyss,Incomum,20.25,12.22,2025-12-14,47,0,Distribuidor A
+202,Booster Legacy of Destruction #202,Booster,Yu-Gi-Oh,Legacy of Destruction,Comum,30.55,18.16,2025-10-07,81,0,Distribuidor A
+203,Carta 203 - Bloomburrow,Carta Avulsa,Magic,Bloomburrow,Incomum,128.52,85.52,2025-05-29,49,0,Distribuidor D
+204,Booster The Infinite Forbidden #204,Booster,Yu-Gi-Oh,The Infinite Forbidden,Ultra Rara,42.24,19.3,2025-08-01,52,0,Distribuidor D
+205,Carta 205 - Paradox Rift,Carta Avulsa,Pokémon,Paradox Rift,Ultra Rara,142.26,64.26,2025-07-28,30,0,Distribuidor D
+206,Box Duskmourn #206,Box,Magic,Duskmourn,Rara,220.17,111.65,2026-04-03,78,0,Distribuidor D
+207,Carta 207 - Obsidian Flames,Carta Avulsa,Pokémon,Obsidian Flames,Comum,8.39,5.66,2025-05-26,56,1,Distribuidor C
+208,Deck The Infinite Forbidden #208,Deck,Yu-Gi-Oh,The Infinite Forbidden,Incomum,62.78,43.49,2025-12-04,41,0,Distribuidor A
+209,Carta 209 - Duskmourn,Carta Avulsa,Magic,Duskmourn,Comum,126.59,62.57,2026-04-27,65,0,Distribuidor D
+210,Carta 210 - The Infinite Forbidden,Carta Avulsa,Yu-Gi-Oh,The Infinite Forbidden,Rara,25.18,13.86,2025-06-14,36,1,Distribuidor D
+211,Booster Paldea Evolved #211,Booster,Pokémon,Paldea Evolved,Rara,41.31,19.96,2026-04-01,30,0,Distribuidor D
+212,Booster Obsidian Flames #212,Booster,Pokémon,Obsidian Flames,Comum,31.67,21.77,2025-09-24,45,1,Distribuidor D
+213,Booster Phantom Nightmare #213,Booster,Yu-Gi-Oh,Phantom Nightmare,Incomum,31.03,16.77,2025-10-11,70,1,Distribuidor B
+214,Box Paradox Rift #214,Box,Pokémon,Paradox Rift,Incomum,180.76,94.83,2025-07-28,91,0,Distribuidor C
+215,Deck Temporal Forces #215,Deck,Pokémon,Temporal Forces,Comum,62.75,41.92,2026-01-12,29,0,Distribuidor A
+216,Carta 216 - Paldea Evolved,Carta Avulsa,Pokémon,Paldea Evolved,Rara,81.64,57.04,2026-03-12,90,0,Distribuidor A
+217,Box Temporal Forces #217,Box,Pokémon,Temporal Forces,Comum,338.05,223.61,2026-04-25,85,0,Distribuidor A
+218,Carta 218 - Outlaws of Thunder Junction,Carta Avulsa,Magic,Outlaws of Thunder Junction,Comum,55.58,26.02,2025-05-25,80,0,Distribuidor D
+219,Booster Bloomburrow #219,Booster,Magic,Bloomburrow,Ultra Rara,21.26,11.13,2025-10-15,53,0,Distribuidor B
+220,Carta 220 - Obsidian Flames,Carta Avulsa,Pokémon,Obsidian Flames,Rara,127.12,64.03,2025-10-16,38,0,Distribuidor C
+221,Booster Phantom Nightmare #221,Booster,Yu-Gi-Oh,Phantom Nightmare,Rara,37.07,24.3,2026-04-18,43,0,Distribuidor C
+222,Box Obsidian Flames #222,Box,Pokémon,Obsidian Flames,Comum,212.12,98.33,2025-09-19,95,0,Distribuidor B
+223,Carta 223 - Duskmourn,Carta Avulsa,Magic,Duskmourn,Rara,14.09,8.95,2026-01-17,48,1,Distribuidor A
+224,Box Scarlet & Violet #224,Box,Pokémon,Scarlet & Violet,Incomum,284.12,154.65,2025-11-13,95,0,Distribuidor C
+225,Deck Bloomburrow #225,Deck,Magic,Bloomburrow,,138.8,68.8,2025-08-18,43,1,
+226,Carta 226 - Bloomburrow,Carta Avulsa,Magic,Bloomburrow,Ultra Rara,98.4,56.59,2025-12-23,60,0,Distribuidor D
+227,Carta 227 - Paradox Rift,Carta Avulsa,Pokémon,Paradox Rift,Ultra Rara,31.97,17.35,2026-02-07,57,0,Distribuidor A
+228,Carta 228 - The Lost Caverns of Ixalan,Carta Avulsa,Magic,The Lost Caverns of Ixalan,Comum,99.49,54.6,2025-05-27,73,0,Distribuidor A
+229,Booster Obsidian Flames #229,Booster,Pokémon,Obsidian Flames,Ultra Rara,33.6,17.15,2025-06-15,43,1,Distribuidor D
+230,Booster Legacy of Destruction #230,Booster,Yu-Gi-Oh,Legacy of Destruction,Incomum,34.88,24.1,2025-07-01,79,0,Distribuidor D
+231,Booster Bloomburrow #231,Booster,Magic,Bloomburrow,Secret Rare,20.42,9.8,2025-10-06,25,0,
+232,Carta 232 - Paldea Evolved,Carta Avulsa,Pokémon,Paldea Evolved,Rara,87.74,58.77,2025-06-21,70,0,Distribuidor D
+233,Carta 233 - Bloomburrow,Carta Avulsa,Magic,Bloomburrow,Comum,27.09,16.27,2025-10-12,96,1,Distribuidor D
+234,Carta 234 - Age of Overlord,Carta Avulsa,Yu-Gi-Oh,Age of Overlord,Incomum,99.39,49.82,2026-04-22,90,0,Distribuidor A
+235,Carta 235 - The Lost Caverns of Ixalan,Carta Avulsa,Magic,The Lost Caverns of Ixalan,Secret Rare,81.45,53.15,2025-10-14,66,1,
+236,Booster Bloomburrow #236,Booster,Magic,Bloomburrow,Rara,32.43,17.96,2026-05-03,57,0,Distribuidor D
+237,Deck The Lost Caverns of Ixalan #237,Deck,Magic,The Lost Caverns of Ixalan,Rara,76.23,43.04,2026-02-14,22,0,Distribuidor D
+238,Booster Obsidian Flames #238,Booster,Pokémon,Obsidian Flames,Comum,33.18,15.83,2026-03-31,87,1,Distribuidor D
+239,Booster Duskmourn #239,Booster,Magic,Duskmourn,Comum,42.98,19.48,2025-08-06,25,0,Distribuidor C
+240,Deck Scarlet & Violet #240,Deck,Pokémon,Scarlet & Violet,Incomum,102.92,64.8,2026-02-26,84,0,Distribuidor C
+241,Box Phantom Nightmare #241,Box,Yu-Gi-Oh,Phantom Nightmare,Incomum,265.69,134.75,2025-11-29,62,0,Distribuidor D
+242,Carta 242 - Obsidian Flames,Carta Avulsa,Pokémon,Obsidian Flames,Comum,63.4,30.97,2026-01-09,46,1,Distribuidor D
+243,Booster Bloomburrow #243,Booster,Magic,Bloomburrow,Comum,21.44,12.98,2025-11-18,64,0,Distribuidor C
+244,Carta 244 - Scarlet & Violet,Carta Avulsa,Pokémon,Scarlet & Violet,Comum,138.14,63.51,2025-05-29,84,0,Distribuidor D
+245,Carta 245 - Temporal Forces,Carta Avulsa,Pokémon,Temporal Forces,Rara,86.68,42.12,2025-06-25,90,1,Distribuidor B
+246,Box Rage of the Abyss #246,Box,Yu-Gi-Oh,Rage of the Abyss,Ultra Rara,229.07,120.02,2025-06-28,65,0,Distribuidor B
+247,Booster Rage of the Abyss #247,Booster,Yu-Gi-Oh,Rage of the Abyss,Comum,21.19,11.4,2025-11-18,23,0,Distribuidor D
+248,Carta 248 - Temporal Forces,Carta Avulsa,Pokémon,Temporal Forces,Comum,116.0,53.79,2026-02-04,29,0,Distribuidor B
+249,Carta 249 - Paradox Rift,Carta Avulsa,Pokémon,Paradox Rift,Comum,110.75,70.38,2025-07-08,88,1,Distribuidor B
+250,Box Rage of the Abyss #250,Box,Yu-Gi-Oh,Rage of the Abyss,Ultra Rara,396.47,276.03,2025-12-20,41,0,
